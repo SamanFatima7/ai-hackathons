@@ -77,6 +77,6 @@ Also they're fun. That matters.
 
 ## 👋 About
 
-Saman Fatima — Kaggle Legacy Grandmaster, data scientist from Pakistan. More work on [Kaggle](https://www.kaggle.com/samanfatima7) · [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/) · [lablab.ai](https://lablab.ai/u/@safima__).
+Saman Fatima — Kaggle Grandmaster, data scientist from Pakistan. More work on [Kaggle](https://www.kaggle.com/samanfatima7) · [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/) · [lablab.ai](https://lablab.ai/u/@safima__).
 
 If you're looking for a teammate for an upcoming hackathon — especially anything agentic, multilingual, or with a social-impact angle — get in touch.
